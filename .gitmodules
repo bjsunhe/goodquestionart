@@ -1,0 +1,4 @@
+[submodule "goodquestionart/public"]
+	path = goodquestionart/public
+	url = https://github.com/bjsunhe/bjsunhe.github.io.git
+	branch = main
